@@ -26,6 +26,8 @@ CrediScope focuses on analyzing a bank's loan portfolio to understand loan perfo
 | Power BI | Interactive dashboards and reporting |
 
 ## 📊 Power BI Dashboard Pages
+<img width="887" height="493" alt="Screenshot 2026-10-19 123413" src="https://github.com/user-attachments/assets/68ed04f1-a273-4174-bb26-a4c7ecc3c47a" />
+
 
 ### 1. Portfolio Overview
 - Total loan portfolio overview
@@ -41,18 +43,22 @@ CrediScope focuses on analyzing a bank's loan portfolio to understand loan perfo
 - Days past due (DPD) analysis
 - Loan repayment status
 - Overdue trends across loan segments
+<img width="885" height="492" alt="Screenshot 2026-10-19 123451" src="https://github.com/user-attachments/assets/28f61add-c7a9-4105-a66c-f2acf261132c" />
+
 
 ### 3. Risk Analysis
 - Default rate analysis
 - Credit score analysis
 - Loan-to-income ratio analysis
 - Risk patterns across loan types and customer categories
+<img width="887" height="498" alt="Screenshot 2026-10-19 123511" src="https://github.com/user-attachments/assets/d863a0f9-d085-4264-8318-eaaab87c52f9" />
 
 ### 4. Approval Analysis
 - Loan approval and rejection trends
 - Approval rate by loan type
 - Rejection reasons
 - Application status analysis
+<img width="888" height="492" alt="Screenshot 2026-10-19 123527" src="https://github.com/user-attachments/assets/7dfbbfda-6f05-417d-97d7-1e2ed4ee1d1c" />
 
 ## 🔍 Key Analysis Areas
 
