@@ -33,6 +33,8 @@ CrediScope focuses on analyzing a bank's loan portfolio to understand loan perfo
 - Loan amount by loan type
 - Default rate by disbursal quarter
 - Key performance indicators (KPIs)
+<img width="887" height="488" alt="Screenshot 2026-10-19 123434" src="https://github.com/user-attachments/assets/154c0adf-91c9-4902-a418-f8a0d4f1e2e0" />
+
 
 ### 2. Aging & Overdue Analysis
 - Overdue loan monitoring
@@ -96,12 +98,6 @@ banking-loan-portfolio-analysis-crediscope/
 ## 💡 Business Value
 
 This project helps explore loan portfolio performance, understand factors associated with default risk, monitor overdue accounts, and evaluate approval patterns to support informed lending and risk-management decisions.
-<img width="887" height="493" alt="Screenshot 2026-10-19 123413" src="https://github.com/user-attachments/assets/5e14a65e-a8bc-43f5-9d13-bcc97c320a95" />
-<img width="887" height="488" alt="Screenshot 2026-10-19 123434" src="https://github.com/user-attachments/assets/6cadf902-abb2-4ff6-9c0e-600b93d73510" />
-<img width="885" height="492" alt="Screenshot 2026-10-19 123451" src="https://github.com/user-attachments/assets/18bbfc1c-9809-4f11-a954-b72956982f5e" />
-
-<img width="887" height="498" alt="Screenshot 2026-10-19 123511" src="https://github.com/user-attachments/assets/440bbf64-8338-462b-85a3-e58d12842aa0" />
-<img width="888" height="492" alt="Screenshot 2026-10-19 123527" src="https://github.com/user-attachments/assets/c4f3d4fa-e04a-4d7a-b791-dd041e29c824" />
 
 
 
